@@ -1,0 +1,15 @@
+# Nunca incluir material privado o ejecutable del producto
+.env*
+*.sqlite3
+*.db
+*.sql
+*.zip
+*.pem
+*.key
+media/
+backups/
+recovery/
+private_signatures/
+__pycache__/
+.venv/
+
