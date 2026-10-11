@@ -1,5 +1,7 @@
 # Sistema de gestión de préstamos
 
+![Portada comercial del Sistema de Gestión de Préstamos](assets/portada-sistema-prestamos.png)
+
 Aplicación web para prestamistas que centraliza clientes, préstamos, cuotas, cobros, caja y documentos en un solo lugar.
 
 > Este repositorio es únicamente una presentación del producto. El código fuente, la base de datos y los componentes internos no se distribuyen públicamente.
