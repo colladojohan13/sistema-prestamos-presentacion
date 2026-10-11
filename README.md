@@ -1,6 +1,6 @@
 # Sistema de gestión de préstamos
 
-![Portada comercial del Sistema de Gestión de Préstamos](assets/portada-sistema-prestamos.png)
+![Commercial cover for the Loan Management System](assets/upwork-cover-loan-management.png)
 
 Aplicación web para prestamistas que centraliza clientes, préstamos, cuotas, cobros, caja y documentos en un solo lugar.
 
